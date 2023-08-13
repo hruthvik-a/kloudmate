@@ -1,0 +1,15 @@
+.main {
+    display: flex;
+    gap: 10px;
+    /* margin-top: -10px; */
+}
+
+.content-block {
+    width: 400px;
+}
+
+.timeline-block {
+    display: flex;
+    /* flex-wrap: wrap; */
+    gap: 140px
+}
