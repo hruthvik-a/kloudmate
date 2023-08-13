@@ -1,6 +1,7 @@
 .main {
     display: flex;
     gap: 10px;
+    width: 100vw;
     /* margin-top: -10px; */
 }
 
@@ -10,6 +11,6 @@
 
 .timeline-block {
     display: flex;
-    /* flex-wrap: wrap; */
-    gap: 140px
+    justify-content: space-between;
+    width: 100%;
 }
