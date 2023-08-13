@@ -1,4 +1,3 @@
-TimeLine.js
 import React, { useState, useEffect } from "react";
 import "./timelinestyle.css";
 import TreeView from "@mui/lab/TreeView";
